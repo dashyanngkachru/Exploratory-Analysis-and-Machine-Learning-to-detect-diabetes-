@@ -1,4 +1,4 @@
-# Exploratory-Analysis-and-Machine-Learning-to-detect-diabetes
+# Exploratory Analysis and Machine Learning to detect diabetes
 README.md
 
  Projects 
