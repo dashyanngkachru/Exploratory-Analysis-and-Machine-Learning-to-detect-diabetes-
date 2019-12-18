@@ -1,9 +1,10 @@
 # Exploratory Analysis and Machine Learning to detect diabetes
 README.md
 
- Projects 
+Projects 
  
 Number of Instances: 768 
+
 Number of Attributes: 9
 
 Attribute Information:
