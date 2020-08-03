@@ -1,8 +1,9 @@
 # Exploratory Analysis and Machine Learning to detect diabetes
-README.md
 
-Projects 
- 
+<b> Kindly refer the following notebook to see the visualizations: Final Project.ipynb </b>
+
+<b> Kindly refer the following notebook to see the machine learning: Final Project Machine Learning-1.ipynb </b>
+
 Number of Instances: 768 
 
 Number of Attributes: 9
